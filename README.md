@@ -33,7 +33,7 @@ I'm a full stack developer.
 
 ## Working Experiences
 #### Aut 2022 - Now
-- Front End Developer at LaiLaoLab ICT Solution
+- fullstack Developer at systory
 
 
 
