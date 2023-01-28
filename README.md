@@ -1,5 +1,5 @@
 
-# Sengkuevang BLONGMAI
+# Sengvang BLONGMAI
 
 Both frontend and backend development with besic of experience. I also had a experience. Seeking to advance my career as a future software developer by utilizing my great technical abilities and qualities. My communication skills are excellent, and I am eager to learn new technology.
 
