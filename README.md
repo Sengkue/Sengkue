@@ -10,8 +10,8 @@ I've been learning to code for 4 years. I started with HTML, CSS and Javascript.
 * 🖥️  See my portfolio at [My port](http://xeeb-kwm-vaj.web.app)
 * ✉️  You can contact me at [skvgithub@gmail.com](mailto:skvgithub@gmail.com)
 * 🚀  I used to work on [Systory Co.,Ltd](http://systory.la)
-* 🚀  I used to work on [anousith express](https://anousith.express/)
-* 🚀  I'm currently working on [Itcapital Co.,Ltd](https://itcapital.la/)
+* 🚀  I used to work on [Itcapital Co.,Ltd](https://itcapital.la/)
+* 🚀  I'm currently working on [anousith express](https://anousith.express/)
 * 🧠  I'm learning a new framework such as Nuxt.Js, Laravel
 * 🤝  I'm open to collaborating on Red Chilli
 * ⚡  I'm secretly Spiderman... but don't tell anyone
