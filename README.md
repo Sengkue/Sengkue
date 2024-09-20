@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I am a web developer with experience in both frontend and backend technologies. I specialize in creating dynamic and responsive websites, and I’m passionate about learning new tools and techniques to enhance my skills. With strong communication abilities, I thrive on collaboration and enjoy solving complex challenges in web development.
+👨‍💻I am a web developer with experience in both frontend and backend technologies. I specialize in creating dynamic and responsive websites, and I’m passionate about learning new tools and techniques to enhance my skills. With strong communication abilities, I thrive on collaboration and enjoy solving complex challenges in web development.
 
 * 🌍  I'm based in Vientiane, Laos
 * 🖥️  See my portfolio at [My port](http://xeeb-kwm-vaj.web.app)
