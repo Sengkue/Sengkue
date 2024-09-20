@@ -11,7 +11,7 @@ Web Developer and Designer
 * ✉️  You can contact me at [skvgithub@gmail.com](mailto:skvgithub@gmail.com)
 * 🚀  I used to work on [Systory Co.,Ltd](http://systory.la)
 * 🚀  I used to work on [Itcapital Co.,Ltd](https://itcapital.la/)
-* 🚀  I'm used to traning on [anousith express](https://anousith.express/) but not pass ❌
+* 🚀  I used to traning on [anousith express](https://anousith.express/) but not pass ❌
 * 🧠  I'm learning a new framework such as Nuxt.Js, Laravel
 * 🤝  I'm open to collaborating on Red Chilli
 * ⚡  I'm secretly Spiderman... but don't tell anyone
