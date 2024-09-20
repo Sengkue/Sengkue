@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for 4 years. I started with HTML, CSS and Javascript. Both frontend and backend development with besic of experience. I also had a experience. Seeking to advance my career as a future software developer by utilizing my great technical abilities and qualities. My communication skills are excellent, and I am eager to learn new technology.
+I am a web developer with experience in both frontend and backend technologies. I specialize in creating dynamic and responsive websites, and I’m passionate about learning new tools and techniques to enhance my skills. With strong communication abilities, I thrive on collaboration and enjoy solving complex challenges in web development.
 
 * 🌍  I'm based in Vientiane, Laos
 * 🖥️  See my portfolio at [My port](http://xeeb-kwm-vaj.web.app)
