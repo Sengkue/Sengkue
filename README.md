@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **SengKueVang BLONGMAI**
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer+and+Designer;Frontend+%26+Backend+Expert;Always+Learning+New+Technologies)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer+and+Designer;Frontend+%26+Backend;Always+Learning+New+Technologies)
 
 </div>
 
