@@ -3,7 +3,10 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **SengKueVang BLONGMAI**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%9A%80+WEB+DEVELOPER+%26+DESIGNER+%F0%9F%9A%80;%E2%9A%A1+FRONTEND+%26+BACKEND+EXPERT+%E2%9A%A1;%F0%9F%92%AB+ALWAYS+LEARNING+NEW+TECH+%F0%9F%92%AB;%F0%9F%94%A5+PASSIONATE+CODE+CREATOR+%F0%9F%94%A5" alt="Typing SVG" />
-
+<br>
+<br>
+<br>
+<br>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SENGKUEVANG%20BLONGMAI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Magic%20With%20Code&descAlignY=55&descSize=20)
 
 </div>
