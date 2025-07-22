@@ -188,14 +188,14 @@ Red Chilli Partnership
 
 **JavaScript**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="50%">
 
 **PHP**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -214,28 +214,28 @@ Red Chilli Partnership
 
 **HTML5**
 <br>
-<img src="https://img.shields.io/badge/Level-Expert-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **CSS3**
 <br>
-<img src="https://img.shields.io/badge/Level-Expert-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **React**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **Vue.js**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
@@ -261,21 +261,21 @@ Red Chilli Partnership
 
 **Node.js**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
 
 **MySQL**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
 
 **Firebase**
 <br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Beginner-lightblue?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
@@ -301,21 +301,21 @@ Red Chilli Partnership
 
 **Flutter**
 <br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Beginner-lightblue?style=for-the-badge"/>
 
 </td>
 <td align="center" width="33%">
 
 **Photoshop**
 <br>
-<img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="33%">
 
 **Premiere Pro**
 <br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Beginner-lightblue?style=for-the-badge"/>
 
 </td>
 </tr>
