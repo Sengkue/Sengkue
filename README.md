@@ -413,7 +413,7 @@ Red Chilli Partnership
 
 ### **💻 Development Activity**
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sengkue&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sengkue&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" width="100%"/>
 
 ---
 
@@ -462,7 +462,7 @@ Red Chilli Partnership
 
 ### **✨ Let's Build Something Amazing Together!**
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Code is like humor. When you have to explain it, it's bad." – Sengkue*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Let's%20create%20something%20extraordinary&descAlignY=51&descAlign=50" width="100%"/>
 
