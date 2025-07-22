@@ -187,15 +187,11 @@ Red Chilli Partnership
 <td align="center" width="50%">
 
 **JavaScript**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="50%">
 
 **PHP**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -213,36 +209,26 @@ Red Chilli Partnership
 <td align="center" width="20%">
 
 **HTML5**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **CSS3**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **React**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **Vue.js**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="20%">
 
 **Nuxt.js**
-<br>
-<img src="https://img.shields.io/badge/Level-Learning-orange?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -260,29 +246,21 @@ Red Chilli Partnership
 <td align="center" width="25%">
 
 **Node.js**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
 
 **MySQL**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
 
 **Firebase**
-<br>
-<img src="https://img.shields.io/badge/Level-Beginner-lightblue?style=for-the-badge"/>
 
 </td>
 <td align="center" width="25%">
 
 **Laravel**
-<br>
-<img src="https://img.shields.io/badge/Level-Learning-orange?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -300,22 +278,16 @@ Red Chilli Partnership
 <td align="center" width="33%">
 
 **Flutter**
-<br>
-<img src="https://img.shields.io/badge/Level-Beginner-lightblue?style=for-the-badge"/>
 
 </td>
 <td align="center" width="33%">
 
 **Photoshop**
-<br>
-<img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge"/>
 
 </td>
 <td align="center" width="33%">
 
 **Premiere Pro**
-<br>
-<img src="https://img.shields.io/badge/Level-Beginner-lightblue?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -462,7 +434,7 @@ Red Chilli Partnership
 
 ### **✨ Let's Build Something Amazing Together!**
 
-*"Code is like humor. When you have to explain it, it's bad." – Sengkue*
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Let's%20create%20something%20extraordinary&descAlignY=51&descAlign=50" width="100%"/>
 
