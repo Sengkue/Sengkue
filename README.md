@@ -48,6 +48,14 @@ I enjoy making **websites and apps** that are both **beautiful and easy to use**
 
 ---
 
+## 📈 Languages Progress
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengkue&layout=pie&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengkue&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+---
+
 ## 🌐 Connect
 <p align="center">
   <a href="https://github.com/Sengkue"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
