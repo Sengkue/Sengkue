@@ -47,12 +47,11 @@ I enjoy making **websites and apps** that are both **beautiful and easy to use**
 </div>
 
 ---
-
-## 📈 Languages Progress
+## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengkue&layout=pie&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengkue&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengkue&langs_count=30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
