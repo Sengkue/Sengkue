@@ -25,7 +25,8 @@ I enjoy making **websites and apps** that are both **beautiful and easy to use**
 ## 💼 Experience
 - **Systory Co.,Ltd** → Web solutions  
 - **Itcapital Co.,Ltd** → Enterprise apps  
-- **Anousith Express** → Training & growth  
+- **Anousith Express** → Training & growth
+- **LCO Real Estate** → Training & growth 
 
 ---
 
