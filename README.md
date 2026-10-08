@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="SengKueVang BLONGMAI — Full-Stack Developer & UI/UX Designer"/>
+  <img src="./assets/hero.svg" width="100%" alt="SengKueVang BLONGMAI — Full-Stack Developer & UI/UX Designer"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <p align="center"><img src="./assets/h-about.svg" width="100%" alt="About me"/></p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="860" alt="Animated terminal: whoami, location, skills, git status, motto"/>
+  <img src="./assets/console.svg" width="860" alt="Animated terminal: whoami, location, skills, git status, motto"/>
 </p>
 
 <table>
@@ -49,17 +49,18 @@ I build **websites and apps** that are **beautiful, fast and easy to use**, and 
 
 ```js
 const seng = {
-  name:     "SengKueVang BLONGMAI",
-  roles:    ["Full-Stack Developer", "UI/UX Designer"],
-  backend:  ["Python", "Node.js", "Laravel"],
+  name: "SengKueVang BLONGMAI",
+  roles: ["Full-Stack Developer", "UI/UX Designer"],
+  backend: ["Python", "Node.js", "Laravel"],
   frontend: ["Vue", "Nuxt.js", "React", "Flutter"],
-  funFact:  "I like to imagine I'm Spiderman 🕷️",
-  motto:    "Keep it simple, make it beautiful.",
+  funFact: "I like to imagine I'm Spiderman 🕷️",
+  motto: "Keep it simple, make it beautiful.",
   hireable: true,
 };
 ```
 
 **🔭 Right now**
+
 - ⚙️ Building backend services with **Python & Node.js**
 - 🚀 Exploring **Nuxt.js & Laravel**
 - 🎨 Crafting clean **UI/UX** systems
@@ -80,7 +81,7 @@ const seng = {
 <p align="center"><img src="./assets/h-stack.svg" width="100%" alt="Tech stack"/></p>
 
 <p align="center">
-  <img src="./assets/skills-marquee.svg" width="100%" alt="Python, Node.js, Laravel, Vue, Nuxt, React, Flutter, Firebase, MySQL, PHP, Figma, Photoshop, Premiere Pro and more"/>
+  <img src="./assets/stack-marquee.svg" width="100%" alt="Python, Node.js, Laravel, Vue, Nuxt, React, Flutter, Firebase, MySQL, PHP, Figma, Photoshop, Premiere Pro and more"/>
 </p>
 
 <table align="center">
@@ -129,16 +130,20 @@ const seng = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sengkue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
+  <a href="https://github.com/Sengkue?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="96" alt="Achievement: Quickdraw"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Sengkue?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="96" alt="Achievement: YOLO"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Sengkue?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="96" alt="Achievement: Pull Shark"/></a>
 </p>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 <p align="center"><img src="./assets/h-projects.svg" width="100%" alt="Featured projects"/></p>
 
 <p align="center">
-  <!-- 🔁 Replace REPO_NAME_1 / REPO_NAME_2 with your real repositories -->
-  <a href="https://github.com/Sengkue/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="49%" alt="Project 1"/></a>
-  <a href="https://github.com/Sengkue/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="49%" alt="Project 2"/></a>
+  <!-- Your public repositories. Swap any name below to feature a different repo. -->
+  <a href="https://github.com/Sengkue/FoodDeleveryApp-2CW1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=FoodDeleveryApp-2CW1&theme=tokyonight&hide_border=true" width="49%" alt="FoodDeleveryApp-2CW1"/></a>
+  <a href="https://github.com/Sengkue/AI-SCRIPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=AI-SCRIPT&theme=tokyonight&hide_border=true" width="49%" alt="AI-SCRIPT"/></a>
+  <a href="https://github.com/Sengkue/ibook_nuxt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=ibook_nuxt&theme=tokyonight&hide_border=true" width="49%" alt="ibook_nuxt"/></a>
+  <a href="https://github.com/Sengkue/node_crub_for_Flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=node_crub_for_Flutter&theme=tokyonight&hide_border=true" width="49%" alt="node_crub_for_Flutter"/></a>
 </p>
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
