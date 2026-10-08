@@ -121,8 +121,11 @@ const seng = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sengkue&theme=tokyonight" width="49%" alt="Profile details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sengkue&theme=tokyonight&utcOffset=7" width="49%" alt="Most productive time of day"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sengkue&theme=tokyonight" width="100%" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sengkue&theme=tokyonight&utcOffset=7" width="100%" alt="Most productive time of day"/>
 </p>
 
 <p align="center">
