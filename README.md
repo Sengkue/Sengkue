@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════ HERO BANNER (animated SVG) ═══════════════════════════ -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="SengKueVang BLONGMAI — Full-Stack Developer & UI/UX Designer"/>
 </p>
@@ -24,10 +24,12 @@
   <a href="https://www.youtube.com/c/UCY4vNqCmk52RR4txKCDn2yA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<p align="center">
+  <a href="mailto:skvgithub@gmail.com"><img src="./assets/cta.svg" width="520" alt="Let's build something together — skvgithub@gmail.com"/></a>
+</p>
 
-<!-- ═══════════════════════════ ABOUT (animated terminal) ═══════════════════════════ -->
-## 🌟 About Me
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<p align="center"><img src="./assets/h-about.svg" width="100%" alt="About me"/></p>
 
 <p align="center">
   <img src="./assets/terminal.svg" width="860" alt="Animated terminal: whoami, location, skills, git status, motto"/>
@@ -35,10 +37,15 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="46%" valign="middle" align="center">
+  <img src="./assets/orbit.svg" width="100%" alt="Technologies orbiting around SK"/>
+</td>
+<td width="54%" valign="top">
 
 I'm a **full-stack developer & designer** from **Vientiane, Laos 🇱🇦**.
 I build **websites and apps** that are **beautiful, fast and easy to use**, and I care about the details nobody notices until they're missing.
+
+> 🇱🇦 ຂ້ອຍເປັນນັກພັດທະນາເວັບ ແລະ ນັກອອກແບບ ຈາກນະຄອນຫຼວງວຽງຈັນ, ສປປ ລາວ. ຍິນດີຮ່ວມມືກັບທຸກຄົນ!
 
 ```js
 const seng = {
@@ -52,41 +59,25 @@ const seng = {
 };
 ```
 
-</td>
-<td width="45%" valign="top">
-
-### 🔭 Right now
+**🔭 Right now**
 - ⚙️ Building backend services with **Python & Node.js**
 - 🚀 Exploring **Nuxt.js & Laravel**
 - 🎨 Crafting clean **UI/UX** systems
 - 🤝 Open to **collaborations**
-- 💬 Ask me about **web, apps & design**
-
-### ⚡ Fun facts
-- 🕸️ Web developer *and* web-slinger (in my head)
-- 🌏 Proud to be building from **Laos**
-- ☕ Powered by coffee & curiosity
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-## 💼 Experience
+<p align="center"><img src="./assets/h-experience.svg" width="100%" alt="Experience"/></p>
 
-| 🏢 Company | 🎯 Focus |
-|---|---|
-| **Systory Co., Ltd** | Web solutions |
-| **Itcapital Co., Ltd** | Enterprise apps |
-| **Anousith Express** | Training & growth |
-| **LCO Real Estate** | Training & growth |
+<p align="center">
+  <img src="./assets/timeline.svg" width="100%" alt="Experience timeline: Systory, Itcapital, Anousith Express, LCO Real Estate"/>
+</p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<!-- ═══════════════════════════ SKILLS (scrolling marquee) ═══════════════════════════ -->
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<p align="center"><img src="./assets/h-stack.svg" width="100%" alt="Tech stack"/></p>
 
 <p align="center">
   <img src="./assets/skills-marquee.svg" width="100%" alt="Python, Node.js, Laravel, Vue, Nuxt, React, Flutter, Firebase, MySQL, PHP, Figma, Photoshop, Premiere Pro and more"/>
@@ -115,10 +106,8 @@ const seng = {
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Stats
+<p align="center"><img src="./assets/h-stats.svg" width="100%" alt="GitHub stats"/></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengkue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub stats"/>
@@ -130,37 +119,30 @@ const seng = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sengkue&theme=tokyonight" width="49%" alt="Repos per language"/>
 </p>
 
-### 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sengkue&theme=tokyo-night&hide_border=true&area=true&custom_title=Sengkue%27s%20Contribution%20Graph" width="100%" alt="Contribution activity graph"/>
 </p>
 
-### 🧊 3D Contribution Skyline
 <p align="center">
   <!-- Appears after you run the "Generate 3D Contribution Graph" workflow once -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
 </p>
 
-### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sengkue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 Featured Projects
+<p align="center"><img src="./assets/h-projects.svg" width="100%" alt="Featured projects"/></p>
 
 <p align="center">
-  <!-- 🔁 Replace REPO_NAME_1 / REPO_NAME_2 / ... with your real repositories -->
+  <!-- 🔁 Replace REPO_NAME_1 / REPO_NAME_2 with your real repositories -->
   <a href="https://github.com/Sengkue/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="49%" alt="Project 1"/></a>
   <a href="https://github.com/Sengkue/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sengkue&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="49%" alt="Project 2"/></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-## 🌐 Let's Connect
+<p align="center"><img src="./assets/h-connect.svg" width="100%" alt="Let's connect"/></p>
 
 <p align="center">
   <a href="https://github.com/Sengkue"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>&nbsp;&nbsp;
@@ -173,7 +155,7 @@ const seng = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
 
-<!-- ═══════════════════════════ SNAKE (workflow: .github/workflows/snake.yml) ═══════════════════════════ -->
+<!-- Snake (workflow: .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sengkue/Sengkue/output/github-snake-dark.svg"/>
@@ -184,6 +166,7 @@ const seng = {
 
 <h3 align="center">✨ "Keep it simple, make it beautiful." ✨</h3>
 
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6366F1,100:EC4899&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer"/>
+  <img src="./assets/footer-city.svg" width="100%" alt="Night city skyline with a swinging spider — thanks for visiting"/>
 </p>
