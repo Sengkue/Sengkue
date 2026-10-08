@@ -13,6 +13,7 @@ I'm a **full-stack developer & designer** from **Vientiane, Laos**.
 I enjoy making **websites and apps** that are both **beautiful and easy to use**.  
 
 ✨ Highlights:  
+- ⚙️ Building backend services with **Python & Node.js**
 - 🚀 Exploring **Nuxt.js & Laravel**  
 - 🎨 Love clean UI/UX design  
 - 🤝 Open to collaborations  
@@ -32,7 +33,7 @@ I enjoy making **websites and apps** that are both **beautiful and easy to use**
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,vue,nuxt,react,nodejs,laravel,mysql,firebase,flutter,ps,pr&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,php,python,nodejs,html,css,vue,nuxt,react,laravel,mysql,firebase,flutter,ps,pr&perline=8" />
 </p>
 
 ---
