@@ -49,18 +49,17 @@ I build **websites and apps** that are **beautiful, fast and easy to use**, and 
 
 ```js
 const seng = {
-  name: "SengKueVang BLONGMAI",
-  roles: ["Full-Stack Developer", "UI/UX Designer"],
-  backend: ["Python", "Node.js", "Laravel"],
+  name:     "SengKueVang BLONGMAI",
+  roles:    ["Full-Stack Developer", "UI/UX Designer"],
+  backend:  ["Python", "Node.js", "Laravel"],
   frontend: ["Vue", "Nuxt.js", "React", "Flutter"],
-  funFact: "I like to imagine I'm Spiderman 🕷️",
-  motto: "Keep it simple, make it beautiful.",
+  funFact:  "I like to imagine I'm Spiderman 🕷️",
+  motto:    "Keep it simple, make it beautiful.",
   hireable: true,
 };
 ```
 
 **🔭 Right now**
-
 - ⚙️ Building backend services with **Python & Node.js**
 - 🚀 Exploring **Nuxt.js & Laravel**
 - 🎨 Crafting clean **UI/UX** systems
@@ -110,19 +109,16 @@ const seng = {
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 <p align="center"><img src="./assets/h-stats.svg" width="100%" alt="GitHub stats"/></p>
 
+<!-- Row 1: both cards are 495x195, so they are the same size and line up exactly -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sengkue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sengkue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=495&cache_seconds=14400" width="49%" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sengkue&theme=tokyonight&hide_border=true" width="49%" alt="Streak stats"/>
 </p>
 
+<!-- Row 2: both cards are 340x200, so they are the same size and line up exactly -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengkue&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Top languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sengkue&theme=tokyonight" width="49%" alt="Repos per language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sengkue&theme=tokyonight" width="49%" alt="Profile details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sengkue&theme=tokyonight&utcOffset=7" width="49%" alt="Most productive time of day"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sengkue&theme=tokyonight" width="49%" alt="Top languages by repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sengkue&theme=tokyonight&utcOffset=7" width="49%" alt="Commits by time of day (UTC+7)"/>
 </p>
 
 <p align="center">
