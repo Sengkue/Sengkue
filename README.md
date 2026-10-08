@@ -81,7 +81,7 @@ const seng = {
 <p align="center"><img src="./assets/h-stack.svg" width="100%" alt="Tech stack"/></p>
 
 <p align="center">
-  <img src="./assets/stack-marquee.svg" width="100%" alt="Python, Node.js, Laravel, Vue, Nuxt, React, Flutter, Firebase, MySQL, PHP, Figma, Photoshop, Premiere Pro and more"/>
+  <img src="./assets/stack-marquee.svg?v=2" width="100%" alt="Python, Node.js, Laravel, Vue, Nuxt, React, Flutter, Firebase, MySQL, PHP, Figma, Photoshop, Premiere Pro and more"/>
 </p>
 
 <table align="center">
